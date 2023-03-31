@@ -3,10 +3,7 @@
     "username": "admin_cat",
     "password": "cat001",
     "shell": "/bin/sh",
-    "groups": [
-      "wheel",
-      "operator"
-    ]
+    "groups": [ "wheel", "operator" ]
   },
   {
     "username": "meow_2",
